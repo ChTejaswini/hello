@@ -7,7 +7,7 @@
 
 **Prerequisites** :
 
-- Basically, we need **Nodejs**
+- Basically, we need **Nodejs** 
 
 **Installation:**
 
