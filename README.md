@@ -7,7 +7,7 @@
 
 **Prerequisites** :
 
-- Basically, we need **Nodejs** and **Visual Studio Code**
+- Basically, we need **Nodejs**
 
 **Installation:**
 
