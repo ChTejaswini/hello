@@ -67,6 +67,6 @@ Test on browser of your choice
 
 ```bash
 
-Visit http://localhost:80(port number in app.js)
+Visit http://localhost:80 (port number in app.js)
 
 ```
