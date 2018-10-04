@@ -3,7 +3,7 @@
 
 # ETHExplorer – Nodejs
 
-About
+## About
 
 It&#39;s a NodeJS based, Server side ETHExplorer
 
@@ -21,7 +21,7 @@ Become a BETA tester, clone the Application and help the community to grow up.
 
 ```
 
-(https://github.com/carsenk/)
+https://github.com/carsenk/
 
  ```
 
@@ -31,7 +31,7 @@ Install some stuff like Node.js and npm
 
 ```bash
 
-[https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+https://nodejs.org/en/download/
 
 ```
 
@@ -45,7 +45,7 @@ https://github.com/ChTejaswini/hello
 
 
 
-Install npm
+After cloning run npm install in the root folder of the project
 
 ```bash
 
@@ -67,6 +67,6 @@ Test on browser of your choice
 
 ```bash
 
-Visit [http://localhost:80](http://localhost:80)(port number in app.js)
+Visit http://localhost:80(port number in app.js)
 
 ```
